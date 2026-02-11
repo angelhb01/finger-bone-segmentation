@@ -1,0 +1,5 @@
+# Python3.12.12 is needed to use tensorflow-metal
+tensorflow==2.18.1
+tensorflow-metal==1.2.0
+numpy==2.0.2
+matplotlib==3.10.8
