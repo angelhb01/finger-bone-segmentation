@@ -3,3 +3,5 @@ tensorflow==2.18.1
 tensorflow-metal==1.2.0
 numpy==2.0.2
 matplotlib==3.10.8
+napari==0.6.6
+dask==2026.1.2
